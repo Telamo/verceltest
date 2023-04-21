@@ -10,8 +10,5 @@
     ],
     "env": {
       "YARN_VERSION": "1.22.10"
-    },
-    "installConfig": {
-      "yarn": true
     }
   }
